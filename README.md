@@ -69,11 +69,14 @@ vote, trump, regret, now, make, support, like, lie, promis, stop
 
 We can extrapolate what we want here, but the topcis are clear, the people who regret voting for Donald Trump are REALLY unhappy about it. 
 
-Below are the two wordclouds created to visualize the most frequently used words.
+Below are the two wordclouds created to visualize the most frequently used words in Trump's Tweets, vs the Regret Tweets.
 
 ![trump twees wordcloud](https://user-images.githubusercontent.com/6904744/36347689-bcf58564-141a-11e8-8ee5-7bcb1b32be17.png)
 ![regret tweet](https://user-images.githubusercontent.com/6904744/36347698-139d4816-141b-11e8-9a5f-929b293d7e77.png)
 
 Now I'll show the average sentiment of tweets between the two accounts. I found that despite Donald Trump's nature, overall his tweets seemed positive in sentiment. While not unexpected, the tweets from people who regret voting for him are negative on average. 
 
-The two graphs below show the sentiment of each set of tweets.
+The two graphs below show the sentiment of Donald Trump's Tweets vs Trump Regret Tweets.
+![trump sentiment](https://user-images.githubusercontent.com/6904744/36347707-6ad6eb1e-141b-11e8-8c15-03758e8071ff.png)
+![regret sentiment](https://user-images.githubusercontent.com/6904744/36347709-77ee378a-141b-11e8-8087-03ca66a44c6e.png)
+
