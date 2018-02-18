@@ -71,11 +71,7 @@ We can extrapolate what we want here, but the topcis are clear, the people who r
 
 Below are the two wordclouds created to visualize the most frequently used words.
 
-Trump's Most Used Words
-
 ![trump twees wordcloud](https://user-images.githubusercontent.com/6904744/36347689-bcf58564-141a-11e8-8ee5-7bcb1b32be17.png)
-
-Regretter's Most Used Words
 ![regret tweet](https://user-images.githubusercontent.com/6904744/36347698-139d4816-141b-11e8-9a5f-929b293d7e77.png)
 
 Now I'll show the average sentiment of tweets between the two accounts. I found that despite Donald Trump's nature, overall his tweets seemed positive in sentiment. While not unexpected, the tweets from people who regret voting for him are negative on average. 
