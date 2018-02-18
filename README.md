@@ -64,14 +64,15 @@ thank, trump, great, hillari, clinton, peopl, crook, make, just, america.
 
 It's clear Trump has a major problem with Hillary Clinton. He mentions "hillari" 455 times in the selected tweets and america just 227 times. 
 
-
 The guys who regret voting for Trump: 
 vote, trump, regret, now, make, support, like, lie, promis, stop
 
 We can extrapolate what we want here, but the topcis are clear, the people who regret voting for Donald Trump are REALLY unhappy about it. 
 
-Below are the two wordclouds created to visualize the most frequently used words. 
+Below are the two wordclouds created to visualize the most frequently used words.
 
+Trump's Most Used Words
+![trump twees wordcloud](https://user-images.githubusercontent.com/6904744/36347689-bcf58564-141a-11e8-8ee5-7bcb1b32be17.png)
 
 Now I'll show the average sentiment of tweets between the two accounts. I found that despite Donald Trump's nature, overall his tweets seemed positive in sentiment. While not unexpected, the tweets from people who regret voting for him are negative on average. 
 
