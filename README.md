@@ -1,7 +1,7 @@
 # Trump Regrets
 NLP project in R comparing the tweets of Donald Trump to those who regret voting for him. 
 
-The following project will analyze the tweets from Donald Trump and the tweets RT'd by the Trump Regrets account. This account retweets tweets that include the words trump and regret, many tweets by his disavowed followers claiming they regretted votint for him and why. 
+The following project will analyze the tweets from Donald Trump and the tweets RT'd by the Trump Regrets account. This account retweets tweets that include the words trump and regret, many tweets by his disavowed followers claiming they regretted voting for him and why. 
 
 Pre-processing
 
